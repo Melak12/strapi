@@ -6953,7 +6953,6 @@ __metadata:
     "@casl/ability": ^5.4.3
     "@pmmmwh/react-refresh-webpack-plugin": 0.5.10
     "@strapi/data-transfer": 4.12.5
-    "@strapi/design-system": 1.9.0
     "@strapi/helper-plugin": 4.12.5
     "@strapi/icons": 1.9.0
     "@strapi/permissions": 4.12.5
@@ -6973,6 +6972,7 @@ __metadata:
     cross-env: ^7.0.3
     css-loader: ^6.8.1
     date-fns: 2.30.0
+    design-system: "https://github.com/Melak12/design-system.git"
     dotenv: 14.2.0
     duplicate-dependencies-webpack-plugin: ^1.0.2
     esbuild-loader: ^2.21.0
@@ -13603,6 +13603,13 @@ __metadata:
   version: 2.0.3
   resolution: "dequal@npm:2.0.3"
   checksum: 8679b850e1a3d0ebbc46ee780d5df7b478c23f335887464023a631d1b9af051ad4a6595a44220f9ff8ff95a8ddccf019b5ad778a976fd7bbf77383d36f412f90
+  languageName: node
+  linkType: hard
+
+"design-system@https://github.com/Melak12/design-system.git":
+  version: 1.0.0
+  resolution: "design-system@https://github.com/Melak12/design-system.git#commit=84597937c56069929a6311715985bf4ec6429100"
+  checksum: cec30cdeb91cb1eeff0f1bb8d9a3ae75f67a3921f40a74721c6d15d6d0fcd1451900cebe35a559edd762b0b70e15c61c73a1a0105036caa2d57bfecf51d709a1
   languageName: node
   linkType: hard
 

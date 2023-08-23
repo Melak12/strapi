@@ -1,5 +1,6 @@
 {
   "name": "strapi",
+  "version": "4.12.5",
   "private": true,
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
